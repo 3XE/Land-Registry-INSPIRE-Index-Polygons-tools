@@ -1,5 +1,5 @@
 # Land Registry INSPIRE Index Polygons tools
-Tools to make working with Land Registry INSPIRE Index Polygons easier
+Tools to make working with Land Registry INSPIRE Index Polygons easier.
 
 ## Land_Registry_Cadastral_Parcels.gfs
 Fixes `ERROR 1: Failed to connect to 192.168.4.121 port 8080: No route to host` when attempting fancy imports using ogr2ogr
